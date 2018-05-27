@@ -1,4 +1,4 @@
-# FirmwareV5.05_MiraHen_BaseInjection
+# PS4 Hack 5.05 FirmwareV5 ESP8266 Chip
 
 Spanish Installation Instructions
 ==================================
