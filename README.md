@@ -1,9 +1,18 @@
 # PS4 Hack 5.05 FirmwareV5 ESP8266 Chip
 
+PS4ADMIN 5.05 RC1 - FirmwareV5 Chip ESP8266 
+
+First release including PS4ADMIN. Give time to the CHIP to link WiFi with your PS4 and be ready to load the page. It could fail the first time if you don't provide enough time. You will get then a blank page.
+
+This Release contains Mira+Hen, FTP Payload, Dumper Payload, Update Blocker Payload. Review the different menus to find each payload entry.
+
+Download the file retrogamerfirmv5_rc1.bin
+
+
 Spanish Installation Instructions
 ==================================
 
-Usar retrogamerfirmv5.bin
+Usar retrogamerfirmv5_rc1.bin
 
 Instalar haciendo uso del flasheador.
 
@@ -30,7 +39,7 @@ Por último ir a la Guía de Usuario y esperar a que cargue la web desde el disp
 English Installation Instructions
 ==================================
 
-Use retrogamerfirmv5.bin if you want firmware in english language.
+Use retrogamerfirmv5_rc1.bin if you want firmware in english language.
 
 Flash ESP8266 firmware using next flasher.
 
