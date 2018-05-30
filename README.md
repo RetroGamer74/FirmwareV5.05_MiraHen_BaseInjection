@@ -1,18 +1,18 @@
-# PS4 Hack 5.05 FirmwareV5 ESP8266 Chip
+# PS4 Hack 5.05 FirmwareV5 v1.1 ESP8266 Chip
 
 PS4ADMIN 5.05 - FirmwareV5 Chip ESP8266 
 
 Updated release including PS4ADMIN. Give time to the CHIP to link WiFi with your PS4 and be ready to load the page. It could fail the first time if you don't provide enough time. You will get then a blank page.
 
-This Release contains Hen as HomeBrew Enabled Exploit, FTP Payload, Dumper Payload, Update Blocker Payload. Review the different menus to find each payload entry. ( Mira CFW has been removed by the way because of bugs )
+This Release contains Hen as HomeBrew Enabled Exploit, FTP Payload, Dumper Payload, Update Blocker Payload, AppToUSB, and DB-SG_Backup. Review the different menus to find each payload entry. ( Mira CFW has been removed by the way because of bugs )
 
-Download the file retrogamerfirmv5.bin
+Download the file retrogamerfirmv5_1.1.bin
 
 
 Spanish Installation Instructions
 ==================================
 
-Usar retrogamerfirmv5.bin
+Usar retrogamerfirmv5_v.bin
 
 Instalar haciendo uso del flasheador.
 
@@ -39,7 +39,7 @@ Por último ir a la Guía de Usuario y esperar a que cargue la web desde el disp
 English Installation Instructions
 ==================================
 
-Use retrogamerfirmv5.bin if you want firmware in english language.
+Use retrogamerfirmv5_1.1.bin if you want firmware in english language.
 
 Flash ESP8266 firmware using next flasher.
 
