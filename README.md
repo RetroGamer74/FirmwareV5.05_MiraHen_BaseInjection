@@ -2,9 +2,9 @@
 
 PS4ADMIN 5.05 - FirmwareV5 Chip ESP8266 
 
-First release including PS4ADMIN. Give time to the CHIP to link WiFi with your PS4 and be ready to load the page. It could fail the first time if you don't provide enough time. You will get then a blank page.
+Updated release including PS4ADMIN. Give time to the CHIP to link WiFi with your PS4 and be ready to load the page. It could fail the first time if you don't provide enough time. You will get then a blank page.
 
-This Release contains Mira+Hen, FTP Payload, Dumper Payload, Update Blocker Payload. Review the different menus to find each payload entry.
+This Release contains Hen as HomeBrew Enabled Exploit, FTP Payload, Dumper Payload, Update Blocker Payload. Review the different menus to find each payload entry. ( Mira CFW has been removed by the way because of bugs )
 
 Download the file retrogamerfirmv5.bin
 
